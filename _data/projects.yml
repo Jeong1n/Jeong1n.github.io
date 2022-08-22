@@ -15,7 +15,7 @@
 
 - name: Spartagora
   descr: "스파르타(코딩을 공부하는) 수강생들간의 익명으로 자유롭게 이야기할수있는 페이지 또 수강생들의 후기와 채용정보가 있는 웹 서비스 개발"
-  Github: https://github.com/SCC-AI-3/Spartagora_Back
+  demo: https://github.com/SCC-AI-3/Spartagora_Back
   tags:
     - tag: Sqlite3
     - tag: Python
@@ -23,7 +23,7 @@
 
 - name: oil paint
   descr: "머신러닝을 이용한 유화 프로젝트로 사람들끼리 유화한 사진을 공유하며 볼수있는 웹 서비스 개발"
-  Github: https://github.com/SCC-AI-3/PaintingProject
+  demo: https://github.com/SCC-AI-3/PaintingProject
   tags:
     - tag: Sqlite3
     - tag: Python
