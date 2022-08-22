@@ -2,29 +2,29 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: 정인 포트폴리오
+title: 포트폴리오
 # description: This will be meta HTML tag content. This can be ignored.
 description: 안녕하세요 주니어 개발자가 되기위한 서 정인의  포트폴리오 입니다 !!
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "Jeong1n.github.io"
+baseurl: "/Jeong1n.github.io"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: 서 정인
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: 저의 포트폴리오 입니다.
 # email: Your E-Mail address for the email button.
 email: lgj61111@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: Jeong1n
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+# codepen_username: exampleUser
+# dev_username: exampleUser
+# linkedin_username: exampleUser
+# twitter_username: exampleUser
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -44,16 +44,16 @@ show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
 
-# TIMELINE SECTION
-# show_timeline_card:
-# > setting this to true, will display the Timeline section
-# > setting this to false, will omit the Timeline section
-show_timeline_card: true
-# timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
-# cv_download_link: The link where you host your cv.
-# > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+# # TIMELINE SECTION
+# # show_timeline_card:
+# # > setting this to true, will display the Timeline section
+# # > setting this to false, will omit the Timeline section
+# show_timeline_card: true
+# # timeline_title: The will be displayed as the title in the Timeline section
+# timeline_title: Education & Experience
+# # cv_download_link: The link where you host your cv.
+# # > e.g. you share your cv on your dropbox, then add the dropbox link here
+# cv_download_link: https://example.com/
 
 # PROJECTS SECTION
 # show_projects_card:
