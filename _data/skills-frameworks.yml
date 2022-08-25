@@ -9,6 +9,6 @@
   weight: 5
   
   
-- name: djangorestframework
+- name: DRF
   weight: 3
 
